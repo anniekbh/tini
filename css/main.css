@@ -1,0 +1,61 @@
+*{
+	font-family: "Roboto:400,300";
+	box-sizing: content-box;
+	margin: auto 0;
+	padding: auto 0;
+}
+.color{
+	background-color:#FCCE09;
+	background-size: cover;
+	height:700px;
+}
+button{
+	background-color:#FCBA43;
+	border:solid #FCBA43;
+	color:#FFFFFF;
+	margin:5%;
+	padding: 2%;
+	text-align: left;
+}
+nav{
+	text-align: right;
+	margin:5%;
+}
+nav a{
+	text-decoration: none;
+	color: #FFFFFF;
+	padding: 2%;
+}
+.titulo{
+	text-align: center;
+	color:#FFFFFF;
+	padding-top: 50%;
+}
+section{
+	background-color:#EAEAE9;
+	padding:6% 9%;
+}
+.pic1{
+	background-color:#FFFFFF;
+	padding-left: 3%;
+	margin: 4%;
+}
+.pic300{
+	padding:5% 15% 0%;
+}
+section button{
+	margin-left: 40%;
+}
+footer{
+	background-color:#323230;
+	padding: 25px 35px;
+	height: 30px;
+}
+footer p{
+	color:white;
+	font-size: 15px;
+}
+
+
+
+
